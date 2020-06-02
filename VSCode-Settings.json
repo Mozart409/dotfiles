@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 600,
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.iconTheme": "ayu",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "synthwave84.brightness": 0.45,
+    "editor.fontFamily": "'Fira Code', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500" 
+}

@@ -15,5 +15,9 @@
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": true,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "editor.wordWrap": "on",
 }

@@ -10,7 +10,7 @@
     "synthwave84.brightness": 0.45,
     "editor.fontFamily": "'Fira Code', monospace",
     "editor.fontLigatures": true,
-    "editor.fontWeight": "500",
+    "editor.fontWeight": "400",
     "workbench.activityBar.visible": false,
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",

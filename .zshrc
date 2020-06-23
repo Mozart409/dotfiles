@@ -68,8 +68,7 @@ ZSH_THEME="lambda-mod"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git nvm osx yarn thefuck alias-finder common-aliases nmap rvm
-themes autojump)
+plugins=(git nvm yarn zsh-autosuggestions autojump)
 
 source $ZSH/oh-my-zsh.sh
 

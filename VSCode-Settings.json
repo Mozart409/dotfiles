@@ -20,4 +20,5 @@
     "explorer.confirmDelete": false,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
     "editor.wordWrap": "on",
+    "window.menuBarVisibility": "hidden",
 }

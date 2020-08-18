@@ -3,29 +3,32 @@
     /**
     * Activity Bar
     **/
-{
-    "key": "cmd+k cmd+e",
-    "command": "workbench.view.explorer"
-},
-{
-    "key": "cmd+k cmd+v",
-    "command": "workbench.view.scm"
-},
-{
-    "key": "cmd+k cmd+d",
-    "command": "workbench.view.debug"
-},
-{
-    "key": "cmd+k cmd+x",
-    "command": "workbench.view.extensions"
-  
-},
-{
-    "key": "cmd+k cmd+p",
-    "command": "projectManager.open"
-},
-{
-    "key": "cmd+k cmd+h",
-    "command": "workbench.action.toggleSidebarVisibility"
-},
+    {
+        "key": "ctrl+k ctrl+e",
+        "command": "workbench.view.explorer"
+    },
+    {
+        "key": "ctrl+k ctrl+v",
+        "command": "workbench.view.scm"
+    },
+    {
+        "key": "ctrl+k ctrl+d",
+        "command": "workbench.view.debug"
+    },
+    {
+        "key": "ctrl+k ctrl+x",
+        "command": "workbench.view.extensions"
+    },
+    {
+        "key": "ctrl+k ctrl+p",
+        "command": "projectManager.open"
+    },
+    {
+        "key": "ctrl+k ctrl+h",
+        "command": "workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.quickOpen"
+    },
 ]

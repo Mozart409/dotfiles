@@ -11,7 +11,7 @@ sudo apt-get --assume-yes install curl git zsh gnome-tweaks github-desktop yarn 
 sudo snap install code --classic
 sudo snap install vlc
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-curl -o ~/.zshrc https://github.com/Mozart409/dotfiles/blob/master/.zshrc
+curl -o ~/.zshrc https://raw.githubusercontent.com/Mozart409/dotfiles/master/.zshrc
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.36.0/install.sh | bash
 nvm install 12
 nvm use 12

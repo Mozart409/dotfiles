@@ -7,7 +7,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/shiftkey/desktop/any/
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 sudo apt-get update
-sudo apt-get --assume-yes install curl git zsh gnome-tweaks github-desktop yarn
+sudo apt-get --assume-yes install curl git zsh gnome-tweaks github-desktop yarn micro
 sudo snap install code --classic
 sudo snap install vlc
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

@@ -14,4 +14,4 @@ alias fix="git diff --name-only | uniq | xargs code"
 
 COMPLETION_WAITING_DOTS="true"
 
-# eval "$(fnm env)"
+eval "$(fnm env)"
